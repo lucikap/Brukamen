@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Brukamen MAC"
+msgstr "Brukamen MAC"
+
+msgid "Change MAC address of eth0.2 interface."
+msgstr "修改eth0.2接口的MAC地址。"
+
+msgid "Current MAC"
+msgstr "当前MAC地址"
+
+msgid "New MAC"
+msgstr "新的MAC地址"
+
+msgid "Get Login Device MAC"
+msgstr "获取本机MAC地址"
+
+msgid "Get Login MAC"
+msgstr "读取"
+
+msgid "Generate Random MAC"
+msgstr "生成随机MAC地址"
+
+msgid "Generate MAC"
+msgstr "生成"
